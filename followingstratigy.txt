@@ -1,0 +1,3 @@
+# trend following stratigy
+#if the crypto was rising by x % ->Buy same to entry
+#exit when profit is above 0.15% or loss is crossing -0.05%
